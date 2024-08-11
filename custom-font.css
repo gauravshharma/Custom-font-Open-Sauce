@@ -1,0 +1,9 @@
+@font-face {
+    font-family: '';
+    src: url('https://raw.githubusercontent.com/gauravshharma/Custom-font-Open-Sauce/blob/master/OpenSauceSans-Black.ttf') format('truetype'),
+         url('https://raw.githubusercontent.com/gauravshharma/Custom-font-Open-Sauce/blob/master/OpenSauceSans-Bold.ttf') format('truetype'),
+         url('https://raw.githubusercontent.com/gauravshharma/Custom-font-Open-Sauce/blob/master/OpenSauceSans-Regular.ttf') format('truetype'),
+         url('https://raw.githubusercontent.com/gauravshharma/Custom-font-Open-Sauce/blob/master/OpenSauceSans-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
