@@ -34,7 +34,7 @@ Use the `@font-face` rule in your CSS file to define the custom font. Here's an 
 
 ```css
 @font-face {
-    font-family: 'CustomFontName';
+    font-family: 'OpenSauceSans';
     src: url('https://raw.githubusercontent.com/gauravshharma/Custom-font-Open-Sauce/font/font.woff2') format('woff2'),
          url('https://raw.githubusercontent.com/gauravshharma/Custom-font-Open-Sauce/font/font.woff') format('woff'),
          url('https://raw.githubusercontent.com/gauravshharma/Custom-font-Open-Sauceb/font/font.ttf') format('truetype');
@@ -49,7 +49,7 @@ Once the font is defined using the `@font-face` rule, you can apply it to HTML e
 
 ```css
 body {
-    font-family: 'CustomFontName', sans-serif;
+    font-family: 'OpenSauceSans', sans-serif;
 }
 ```
 
@@ -59,7 +59,7 @@ For better user experience, include fallback fonts in case the custom font fails
 
 ```css
 body {
-    font-family: 'CustomFontName', Arial, sans-serif;
+    font-family: 'OpenSauceSans', Arial, sans-serif;
 }
 ```
 
